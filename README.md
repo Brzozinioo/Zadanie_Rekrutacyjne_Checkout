@@ -17,7 +17,7 @@ Większoś zadania opiera się na folderach:
 -   [Resources](resources/js/)
 -   [Routes](routes)
 
-W ramach zadania w pliku .env.example pozostawione zostały klucze autoryzacyjne dla reCaptcha,
+W ramach zadania w plikach .env oraz .env.example pozostawione zostały klucze autoryzacyjne dla reCaptcha,
 oraz utworzony został pusty plik bazodanowy database.sqlite.
 
 ## Kroki potrzebne do uruchomienia zadania
