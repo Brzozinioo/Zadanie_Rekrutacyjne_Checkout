@@ -6,7 +6,7 @@ Zadanie rekrutacyjne koszyk sprzedaży wraz z funkcjonalnościami:
 -   Obsługa kodów rabatowych (RABAT10, 35PLN, 50PLN)
 -   Obsługa reCaptcha
 -   Popout okna logowania
--   Front-end w technologii React (na tą chwilę nie zaznajomiłem się z Vue.js)
+-   Front-end w technologii React z wykorzystaniem stylów bootstrapowych (na tą chwilę nie zaznajomiłem się z Vue.js)
 
 Większoś zadania opiera się na folderach:
 
